@@ -1,0 +1,32 @@
+# dependencies
+node_modules/
+
+# bun
+.bun/
+bun.lockb
+
+# logs
+logs
+*.log
+
+# environment variables
+.env
+.env.local
+
+# database files
+*.db
+*.sqlite
+*.sqlite3
+
+# build outputs
+dist/
+build/
+.out/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
